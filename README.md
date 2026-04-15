@@ -11,8 +11,6 @@ I mostly like **embedded systems** and **backend** programing. I love diving dee
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sofiavldd2005&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sofiavldd2005&theme=solarized-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiavldd2005&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
