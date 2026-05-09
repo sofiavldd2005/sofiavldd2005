@@ -2,9 +2,9 @@
 ---
 About Me:
 
-I am an Aerospace Engineering graduate currently who wants to do a Master's in Software Engineering. As a member of the electronics team at the **RED** Rocketry Team, I have written embedded software and alike :)
+- I am an Aerospace Engineering graduate currently who wants to do a Master's in Computer Engineering. As a member of the electronics team at the **RED** Rocketry Team, I have written flight software and alike :).
 
-I mostly like **embedded systems** and **backend** programing. I love diving deep into the hardware-software interface and just have fun with it
+- I mostly like **embedded systems** and **backend** programing🦀. I love diving deep into the hardware-software frontier and just have fun with it .
 [My Website](https://sofiavldd2005.github.io/)
 ---
 
@@ -14,9 +14,6 @@ I mostly like **embedded systems** and **backend** programing. I love diving dee
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sofiavldd2005&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
