@@ -5,7 +5,8 @@ About Me:
 - I am an Aerospace Engineering graduate currently who wants to do a Master's in Computer Engineering. As a member of the electronics team at the **RED** Rocketry Team, I have written flight software and alike :).
 
 - I mostly like **embedded systems** and **backend** programing🦀. I love diving deep into the hardware-software frontier and just have fun with it .
-[My Website](https://sofiavldd2005.github.io/)
+
+- **[My Website](https://sofiavldd2005.github.io/)**
 ---
 
 # 💻 Tech Stack:
