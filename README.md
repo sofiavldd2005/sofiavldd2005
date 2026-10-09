@@ -1,21 +1,9 @@
 <!-- sofiavldd2005/sofiavldd2005 — profile README -->
 
-```text
-┌─[sofia@nixos]─[~/github]
-└─$ whoami
-Aerospace grad · embedded systems enthusiast · electronics co-lead @ RED Rocketry
-
-┌─[sofia@nixos]─[~/github]
-└─$ cat ~/now.txt
-- writing flight software for rockets, on FreeRTOS
-- bootloaders & no_std on STM32 (cortex-m, embassy)
-- rebuilding my personal website in Leptos (Rust → WASM)
-- learning ROS2 and Px4
-```
 
 ## About me
 
-I'm Sofia, a soon to be Aerospace Eng graduate from Lisbon, heading into a
+I'm Sofia, a Aerospace Eng BsC, from Lisbon, heading into a
 Master's in Electrical Engineering (or Compsi, have't decided that yet!). I like building software that lives close to
 the hardware: flight computers, bootloaders, firmware, the whole
 hardware-software frontier.
